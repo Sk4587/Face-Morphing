@@ -3,7 +3,7 @@
 This work is part of my coursework for COMP0026: Image Processing at University College London.The coursework details are given [here](https://github.com/Sk4587/Face-Morphing/blob/main/Image%20Processing%20COMP0026%20CW1.pdf) . Copyrights under [Prof. Lourdes De Agapito Vicente](https://profiles.ucl.ac.uk/40331-lourdes-de-agapito-vicente)
 
 
-## Output(Speeded up)
+## Output (Speeded up)
 https://github.com/Sk4587/Face-Morphing/assets/46374770/4200f77f-14c3-4add-ba94-53a1a54df0f6
 
 
